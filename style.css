@@ -1,0 +1,14 @@
+	/* style.css */
+h1,h2 { 
+  color:#000000;
+  font-size: 10px;}/* Write some CSS below */
+h1,h2 {font-family:Impallari Type; font-size: 33px}
+h3{color: #848484; font-size: 16px;}
+body { background-color:#ECCEF5; }
+h1 { text-align: center; font-size:40px;}
+h5{font-size: 20px;}
+h6{color: #848484; font-size: 18px;}
+.banner {
+	background-image: url('https://img-cdn.inc.com/image/upload/w_1920,h_1080,c_fill/images/panoramic/GettyImages-577674005_492115_zfpgiw.jpg');
+}
+.purchase {background-image: url('https://germainmaureau.com/app/uploads/2020/05/Amazon-logo-1024x430.png');}
